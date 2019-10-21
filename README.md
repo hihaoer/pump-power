@@ -1,3 +1,3 @@
 # pump power
- Pump motor power calculation
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+Pump motor power calculation<br>  
+![screenshot](https://github.com/haozcq/pump-power/blob/master/img/screenshot.png)
